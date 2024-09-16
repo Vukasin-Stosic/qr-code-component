@@ -1,0 +1,66 @@
+/* ## Colors
+
+- White: hsl(0, 0%, 100%)
+
+- Slate 300: hsl(212, 45%, 89%)
+- Slate 500: hsl(216, 15%, 48%)
+- Slate 900: hsl(218, 44%, 22%) */
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: hsl(212, 45%, 89%);
+  font-family: "Outfit", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.intro-text {
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card-component {
+  text-align: center;
+  width: 300px;
+  background-color: hsl(0, 0%, 100%);
+  color: hsl(218, 44%, 22%);
+  padding: 1rem;
+  margin: 90px 0;
+  border-radius: 20px;
+  box-shadow: 2px 2px 30px silver;
+}
+
+img {
+  width: 100%;
+  border-radius: 20px;
+}
+
+.card-component-text {
+  width: 250px;
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 22px;
+  font-weight: 700;
+}
+
+p {
+  font-size: 15px;
+  font-weight: 400;
+  color: hsl(216, 15%, 48%);
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
