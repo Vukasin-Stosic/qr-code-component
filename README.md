@@ -24,7 +24,7 @@ This is my first chalange on Frontend Mentor platform.
 ### Links
 
 - Solution URL: [GitHub repository](https://github.com/Vukasin-Stosic/qr-code-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://vukasin-stosic.github.io/qr-code-component/)
 
 ## My process
 
@@ -38,5 +38,5 @@ Since it's my first Frontend Mentor chalange I have learned mostly about the pla
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [GitHub account](https://github.com/Vukasin-Stosic)
+- Frontend Mentor - [@Vukasin-Stosic](https://www.frontendmentor.io/profile/Vukasin-Stosic)
